@@ -2,7 +2,7 @@
 
 This is a tool I created to combine texture files based on the filenames in the source folder.
 
-** It requires 3 components : **
+**It requires 3 components :**
 - Source folder
 - Destination folder
 - Base texture 
